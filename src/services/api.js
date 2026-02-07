@@ -1,5 +1,5 @@
 import axios from 'axios';
-
+//HOTEL MANAGEMENT 
 const API_BASE_URL = 'https://hostel-management-backend-rc9d.onrender.com/api';
 
 const api = axios.create({
