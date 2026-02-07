@@ -24,7 +24,7 @@ This frontend depends on the backend service.
 ---
 
 📊 **Project Presentation**  
-👉 Download Project PPT: `[Add your PPT link here]`
+👉 Download Project PPT: https://github.com/sandy13226/hostel-management-frontend/blob/main/Hostel-Management-System.pptx
 
 ---
 
